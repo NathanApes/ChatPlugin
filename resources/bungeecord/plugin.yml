@@ -1,0 +1,5 @@
+name: BungeeChat
+version: 1.0
+author: NathanApes
+
+main: avelyn.nathan.apes.bungeechat.BungeeChat

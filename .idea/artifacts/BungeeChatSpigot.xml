@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BungeeChatSpigot">
+    <output-path>$USER_HOME$/Documents/TestingServer/plugins</output-path>
+    <root id="archive" name="BungeeChatSpigot.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/resources/spigot/plugin.yml" />
+      <element id="module-output" name="ChatPlugin" />
+    </root>
+  </artifact>
+</component>

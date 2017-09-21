@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeChatBungeeCord">
+    <output-path>$USER_HOME$/Documents/TempTestingServer/plugins</output-path>
+    <root id="archive" name="BungeeChatBungeeCord.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/resources/bungeecord/plugin.yml" />
+      <element id="module-output" name="ChatPlugin" />
+    </root>
+  </artifact>
+</component>
